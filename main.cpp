@@ -3,6 +3,7 @@
 //class:          CSIS 252
 //program:        assignment 4
 //date:          <02/016/2018>
+//This is the simple changes made to test git functionality which can be ignored.
 
 #include <iostream>
 #include <iomanip>
